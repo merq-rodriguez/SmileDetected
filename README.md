@@ -7,8 +7,10 @@ Primero actualizamos:
 
 Una vez estemos a la última podemos instalar la biblioteca en sí con:
 > sudo apt-get install libopencv-dev
+
 Para poder usarla con Python necesitaremos instalar el siguiente paquete:
 > sudo apt-get install python-opencv
+
 Por último, podemos bajarnos la documentación y algunos ejemplos de aplicaciones ya hechas con:
 > sudo apt-get install opencv-doc
 
